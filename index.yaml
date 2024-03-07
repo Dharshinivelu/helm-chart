@@ -9,6 +9,6 @@ entries:
     name: helm-chart-test
     type: application
     urls:
-    - https://checkHelm.github.io/helm-chart/helm-chart-test-0.1.0.tgz
+    - https://github.com/Dharshinivelu/helm-chart/helm-chart-test-0.1.0.tgz
     version: 0.1.0
 generated: "2024-03-07T16:01:25.728380628Z"
